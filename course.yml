@@ -1,4 +1,7 @@
 title: PSTestcourse
-description: Course description goes here.
+description: |-
+  Course description goes here.
+
+  <b>my description</b>
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
