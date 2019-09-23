@@ -1,7 +1,10 @@
 title: PSTestcourse
-description: |-
+description: >-
   Course description goes here.
 
+
   <b>my description</b>
+
+  p3nt3st'"<>%27%22%3E%3C%2527%2522%253E%253C\x27\x22\x3e\x3c\\x27\\x22\\x3e\\x3c$*{}[];%26|%23%20--%20-<!--pur4
 programming_language: python
 from: 'python-base-prod:v1.0.2'
